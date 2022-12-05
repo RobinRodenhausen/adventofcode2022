@@ -9,7 +9,7 @@ with open('3/input', 'r') as f:
         if not lines:
             break
 
-        duplicate = list(set(lines[0]).intersection(lines[1]).intersection(lines[2]))[0]
+        duplicate = list(set(lines[0]).intersection(lines[1], lines[2]))[0]
         total += ord(duplicate) - 38 if duplicate.isupper() else ord(duplicate) - 96
 
     print(f'Total: {total}')
