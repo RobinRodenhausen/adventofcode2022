@@ -14,4 +14,5 @@
 | 4   | [Camp Cleanup](https://adventofcode.com/2022/day/4)            |
 | 5   | [Supply Stacks](https://adventofcode.com/2022/day/5)           |
 | 6   | [Tuning Trouble](https://adventofcode.com/2022/day/6)          |
-| 7   |                                                                |
+| 7   | [No Space Left On Device](https://adventofcode.com/2022/day/7) |
+| 8   | []()                                                           |
