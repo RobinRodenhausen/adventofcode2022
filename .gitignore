@@ -1,3 +1,4 @@
 Pipfile.lock
 *.draft
 __pycache__
+input.example
