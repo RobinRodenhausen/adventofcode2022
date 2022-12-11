@@ -18,4 +18,5 @@
 | 8   | [Treetop Tree House](https://adventofcode.com/2022/day/8)      |
 | 9   | [Rope Bridge](https://adventofcode.com/2022/day/9)             |
 | 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)       |
-| 11  | []()                                                           |
+| 11  | [Monkey in the Middle](https://adventofcode.com/2022/day/11)   |
+| 12  | []()                                                           |
